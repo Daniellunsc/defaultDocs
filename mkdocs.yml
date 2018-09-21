@@ -1,0 +1,6 @@
+site_name: DefaultDocs
+theme: readthedocs
+nav:
+    - Home: index.md
+    - Arquiterura: arquitetura.md
+
